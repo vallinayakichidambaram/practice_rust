@@ -13,6 +13,6 @@ Open WSL (if you are using Windows) as root user and run the following commands
 
 > cargo --version\
 > rustc --version\
-> rustup --version\
+> rustup --version
 
-If the commands are successful ,then rust is successfully installedin your system. 
+If the commands are successful ,then rust is successfully installed in your system. 
